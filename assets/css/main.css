@@ -1224,10 +1224,7 @@ textarea {
   position: relative; }
   .image img {
     display: block;
-    filter: blur(0.2rem);
     transition: all .2s; }
-    .image img:hover {
-      filter: blur(0); }
   .image.fit {
     display: block; }
     .image.fit img {
